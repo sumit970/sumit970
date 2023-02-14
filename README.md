@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi! IT'S SUMIT 👋
 
-<!--
-**sumit970/sumit970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on FullStack web Dev.
 - 🌱 I’m currently learning  Web 3.o
@@ -13,4 +9,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [MyPortfolio](https://www.sumit.live)
 
 - ⚡ Fun fact: I am half finished
+
+<!--
+**sumit970/sumit970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->

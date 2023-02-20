@@ -8,7 +8,7 @@
 - 💬 Ask me about  #AnyThing 
 - 📫 How to reach me: [MyPortfolio](https://www.sumit.live)
 
-- ⚡ Fun fact: I am half finished
+
 
 <!--
 **sumit970/sumit970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

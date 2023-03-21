@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on FullStack web Dev.
 - 🌱 I’m currently learning  Web 3.o
 - 👯 I’m looking to collaborate on  Web Development Project
-- 🤔 I’m looking for help with  Express.js 
+ 
 - 💬 Ask me about  #AnyThing 
 - 📫 How to reach me: [MyPortfolio](https://www.sumit.live)
 

@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on FullStack web Dev.
-- 🌱 I’m currently learning  Web 3.o
+-
 - 👯 I’m looking to collaborate on  Web Development Project
  
 - 💬 Ask me about  #AnyThing 

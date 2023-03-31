@@ -2,9 +2,7 @@
 
 
 - 🔭 I’m currently working on FullStack web Dev.
--
 - 👯 I’m looking to collaborate on  Web Development Project
- 
 - 💬 Ask me about  #AnyThing 
 - 📫 How to reach me: [MyPortfolio](https://www.sumit.live)
 
